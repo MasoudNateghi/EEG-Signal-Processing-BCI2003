@@ -1,4 +1,4 @@
-# EEG-data-classification-using-Genetic-algorithms
+# EEG-data-classification-BCI2003
 In this repository, features were extracted from EEG data, and the best features were selected for classifying the signals using Genetic Algorithms.
 ## phase 1: 
 - the features were extracted from the channels. 
